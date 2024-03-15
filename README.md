@@ -1,6 +1,6 @@
 ## Installation
 
-Install my-project with npm
+Install project with npm
 
 ```bash
   npm install
