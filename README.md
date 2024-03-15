@@ -1,6 +1,6 @@
 ## Project Title
 
-Next.js App app where users can engage in discussions and conversations on various topics
+Next.js app where users can engage in discussions and conversations on various topics
 
 ## Installation
 
