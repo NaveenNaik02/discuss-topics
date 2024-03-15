@@ -1,6 +1,10 @@
+## Project Title
+
+Next.js App app where users can engage in discussions and conversations on various topics
+
 ## Installation
 
-Install project with npm
+Install my-project with npm
 
 ```bash
   npm install
